@@ -3,52 +3,52 @@
     {
       "id": 1,
       "title": "Lamborghini Aventador",
-      "thumbnailUrl": "https://via.placeholder.com/150/ff7f00"
+      "thumbnailUrl": "https://www.motortrend.com/uploads/sites/5/2019/12/2020-Lamborghini-Aventador-SVJ-Front-3-4.jpg"
     },
     {
       "id": 2,
       "title": "Ferrari 488 GTB",
-      "thumbnailUrl": "https://via.placeholder.com/150/ff2f00"
+      "thumbnailUrl": "https://www.ferrari.com/images/gallery/ferrari-488-gtb.jpg"
     },
     {
       "id": 3,
       "title": "Porsche 911 Turbo",
-      "thumbnailUrl": "https://via.placeholder.com/150/d1c700"
+      "thumbnailUrl": "https://www.porsche.com/usa/_data/images/pressrelease/gallery/911-turbo-2019-porsche-001.jpg"
     },
     {
       "id": 4,
       "title": "Bugatti Veyron",
-      "thumbnailUrl": "https://via.placeholder.com/150/0000ff"
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/2012_Bugatti_Veyron_16.4_Grand_Sport_Vitesse.jpg"
     },
     {
       "id": 5,
       "title": "Aston Martin DB11",
-      "thumbnailUrl": "https://via.placeholder.com/150/32a852"
+      "thumbnailUrl": "https://media.astonmartin.com/-/media/images/aston-martin-vehicles/db11/db11-hero.jpg"
     },
     {
       "id": 6,
       "title": "Rolls-Royce Phantom",
-      "thumbnailUrl": "https://via.placeholder.com/150/3d3d3d"
+      "thumbnailUrl": "https://www.rolls-roycemotorcars.com/content/dam/rollsroycemotorcars/images/home/phantom-homepage.jpg"
     },
     {
       "id": 7,
       "title": "Maserati GranTurismo",
-      "thumbnailUrl": "https://via.placeholder.com/150/4b0082"
+      "thumbnailUrl": "https://www.maserati.com/-/media/images/maserati/gt/2020/gt-overview.jpg"
     },
     {
       "id": 8,
       "title": "McLaren 720S",
-      "thumbnailUrl": "https://via.placeholder.com/150/8b0000"
+      "thumbnailUrl": "https://www.mclaren.com/sites/mclaren.com/files/styles/car_gallery_large/public/media/2020-09/McLaren-720S-Spider-Orange-003.jpg?itok=MQAXeVPO"
     },
     {
       "id": 9,
       "title": "Bentley Continental GT",
-      "thumbnailUrl": "https://via.placeholder.com/150/2e8b57"
+      "thumbnailUrl": "https://cdn.bentleymedia.com/-/media/images/continental-gt/front-hero-1.jpg"
     },
     {
       "id": 10,
       "title": "Koenigsegg Jesko",
-      "thumbnailUrl": "https://via.placeholder.com/150/ff6347"
+      "thumbnailUrl": "https://cdn.koenigsegg.com/wp-content/uploads/2019/03/jesko-press-002.jpg"
     }
   ]
 }
