@@ -3,52 +3,52 @@
     {
       "id": 1,
       "title": "Lamborghini Aventador",
-      "thumbnailUrl": "https://cdn.motor1.com/images/mgl/WY0YO/s3/2021-lamborghini-aventador-svj.jpg"
+      "thumbnailUrl": "https://via.placeholder.com/150/ff7f00"
     },
     {
       "id": 2,
       "title": "Ferrari 488 GTB",
-      "thumbnailUrl": "https://cdn.carbuzz.com/gallery-images/820x561/459000/459758.jpg"
+      "thumbnailUrl": "https://via.placeholder.com/150/ff2f00"
     },
     {
       "id": 3,
       "title": "Porsche 911 Turbo",
-      "thumbnailUrl": "https://www.porsche.com/media/images/911-turbo-s.jpg"
+      "thumbnailUrl": "https://via.placeholder.com/150/d1c700"
     },
     {
       "id": 4,
       "title": "Bugatti Veyron",
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bugatti_Veyron_16.4.jpg"
+      "thumbnailUrl": "https://via.placeholder.com/150/0000ff"
     },
     {
       "id": 5,
       "title": "Aston Martin DB11",
-      "thumbnailUrl": "https://www.astonmartin.com/sites/default/files/2022-01/DB11V12_1.jpg"
+      "thumbnailUrl": "https://via.placeholder.com/150/32a852"
     },
     {
       "id": 6,
       "title": "Rolls-Royce Phantom",
-      "thumbnailUrl": "https://media.rolls-roycemotorcars.com/-/media/images/rrmc-hero-phantom-2021.jpg"
+      "thumbnailUrl": "https://via.placeholder.com/150/3d3d3d"
     },
     {
       "id": 7,
       "title": "Maserati GranTurismo",
-      "thumbnailUrl": "https://www.maserati.com/-/media/images/gt-granturismo-hero-2021.jpg"
+      "thumbnailUrl": "https://via.placeholder.com/150/4b0082"
     },
     {
       "id": 8,
       "title": "McLaren 720S",
-      "thumbnailUrl": "https://cdn.mcclaren.com/sites/mclaren.com/files/styles/car_gallery_large/public/media/720s.jpg?itok=8tX8Emd0"
+      "thumbnailUrl": "https://via.placeholder.com/150/8b0000"
     },
     {
       "id": 9,
       "title": "Bentley Continental GT",
-      "thumbnailUrl": "https://cdn.bentleymedia.com/-/media/images/continental-gt-2021.jpg"
+      "thumbnailUrl": "https://via.placeholder.com/150/2e8b57"
     },
     {
       "id": 10,
       "title": "Koenigsegg Jesko",
-      "thumbnailUrl": "https://www.koenigsegg.com/wp-content/uploads/2020/03/jesko-press-001.jpg"
+      "thumbnailUrl": "https://via.placeholder.com/150/ff6347"
     }
   ]
 }
