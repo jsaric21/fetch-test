@@ -3,52 +3,52 @@
     {
       "id": 1,
       "title": "Lamborghini Aventador",
-      "thumbnailUrl": "https://www.motortrend.com/uploads/sites/5/2019/12/2020-Lamborghini-Aventador-SVJ-Front-3-4.jpg"
+      "thumbnailUrl": "https://cdn.motor1.com/images/mgl/WY0YO/s3/2021-lamborghini-aventador-svj.jpg"
     },
     {
       "id": 2,
       "title": "Ferrari 488 GTB",
-      "thumbnailUrl": "https://www.ferrari.com/images/gallery/ferrari-488-gtb.jpg"
+      "thumbnailUrl": "https://cdn.carbuzz.com/gallery-images/820x561/459000/459758.jpg"
     },
     {
       "id": 3,
       "title": "Porsche 911 Turbo",
-      "thumbnailUrl": "https://www.porsche.com/usa/_data/images/pressrelease/gallery/911-turbo-2019-porsche-001.jpg"
+      "thumbnailUrl": "https://www.porsche.com/media/images/911-turbo-s.jpg"
     },
     {
       "id": 4,
       "title": "Bugatti Veyron",
-      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/2012_Bugatti_Veyron_16.4_Grand_Sport_Vitesse.jpg"
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bugatti_Veyron_16.4.jpg"
     },
     {
       "id": 5,
       "title": "Aston Martin DB11",
-      "thumbnailUrl": "https://media.astonmartin.com/-/media/images/aston-martin-vehicles/db11/db11-hero.jpg"
+      "thumbnailUrl": "https://www.astonmartin.com/sites/default/files/2022-01/DB11V12_1.jpg"
     },
     {
       "id": 6,
       "title": "Rolls-Royce Phantom",
-      "thumbnailUrl": "https://www.rolls-roycemotorcars.com/content/dam/rollsroycemotorcars/images/home/phantom-homepage.jpg"
+      "thumbnailUrl": "https://media.rolls-roycemotorcars.com/-/media/images/rrmc-hero-phantom-2021.jpg"
     },
     {
       "id": 7,
       "title": "Maserati GranTurismo",
-      "thumbnailUrl": "https://www.maserati.com/-/media/images/maserati/gt/2020/gt-overview.jpg"
+      "thumbnailUrl": "https://www.maserati.com/-/media/images/gt-granturismo-hero-2021.jpg"
     },
     {
       "id": 8,
       "title": "McLaren 720S",
-      "thumbnailUrl": "https://www.mclaren.com/sites/mclaren.com/files/styles/car_gallery_large/public/media/2020-09/McLaren-720S-Spider-Orange-003.jpg?itok=MQAXeVPO"
+      "thumbnailUrl": "https://cdn.mcclaren.com/sites/mclaren.com/files/styles/car_gallery_large/public/media/720s.jpg?itok=8tX8Emd0"
     },
     {
       "id": 9,
       "title": "Bentley Continental GT",
-      "thumbnailUrl": "https://cdn.bentleymedia.com/-/media/images/continental-gt/front-hero-1.jpg"
+      "thumbnailUrl": "https://cdn.bentleymedia.com/-/media/images/continental-gt-2021.jpg"
     },
     {
       "id": 10,
       "title": "Koenigsegg Jesko",
-      "thumbnailUrl": "https://cdn.koenigsegg.com/wp-content/uploads/2019/03/jesko-press-002.jpg"
+      "thumbnailUrl": "https://www.koenigsegg.com/wp-content/uploads/2020/03/jesko-press-001.jpg"
     }
   ]
 }
