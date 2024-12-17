@@ -1,0 +1,54 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "title": "Lamborghini Aventador",
+      "thumbnailUrl": "https://via.placeholder.com/150/ff7f00"
+    },
+    {
+      "id": 2,
+      "title": "Ferrari 488 GTB",
+      "thumbnailUrl": "https://via.placeholder.com/150/ff2f00"
+    },
+    {
+      "id": 3,
+      "title": "Porsche 911 Turbo",
+      "thumbnailUrl": "https://via.placeholder.com/150/d1c700"
+    },
+    {
+      "id": 4,
+      "title": "Bugatti Veyron",
+      "thumbnailUrl": "https://via.placeholder.com/150/0000ff"
+    },
+    {
+      "id": 5,
+      "title": "Aston Martin DB11",
+      "thumbnailUrl": "https://via.placeholder.com/150/32a852"
+    },
+    {
+      "id": 6,
+      "title": "Rolls-Royce Phantom",
+      "thumbnailUrl": "https://via.placeholder.com/150/3d3d3d"
+    },
+    {
+      "id": 7,
+      "title": "Maserati GranTurismo",
+      "thumbnailUrl": "https://via.placeholder.com/150/4b0082"
+    },
+    {
+      "id": 8,
+      "title": "McLaren 720S",
+      "thumbnailUrl": "https://via.placeholder.com/150/8b0000"
+    },
+    {
+      "id": 9,
+      "title": "Bentley Continental GT",
+      "thumbnailUrl": "https://via.placeholder.com/150/2e8b57"
+    },
+    {
+      "id": 10,
+      "title": "Koenigsegg Jesko",
+      "thumbnailUrl": "https://via.placeholder.com/150/ff6347"
+    }
+  ]
+}
